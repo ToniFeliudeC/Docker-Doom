@@ -14,7 +14,7 @@ https://web.archive.org/web/20160310005603/https://gideonred.com/bins/dockerdoom
 
 <img src="https://i.gyazo.com/0fd9ed24eb5ca4708cab94c5c4f99ab9.png">
 
-### **4. Go to "localhost:5900 from VNC and you can start killiing containers!**
+### **4. Go to "localhost:5900" from VNC and you can start killiing containers!**
 
 <img src="https://i.gyazo.com/6c1719bfd2aa812895bfaebc354b31f7.png">
 
